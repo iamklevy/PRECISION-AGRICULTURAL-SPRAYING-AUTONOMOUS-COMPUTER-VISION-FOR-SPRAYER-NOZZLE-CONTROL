@@ -20,7 +20,7 @@ The autonomous pesticide spraying tractor integrates both an Arduino Uno and an 
 ### 3D Design Demo 
 <p>
     <video src="https://github.com/iamklevy/PRECISION-AGRICULTURAL-SPRAYING-AUTONOMOUS-COMPUTER-VISION-FOR-SPRAYER-NOZZLE-CONTROL/assets/94145850/5ee1b6fb-c0d2-4f5b-9983-96f7ed603564" />
-      Your display does not support the video tag. open browser to see the video.
+      *Your display does not support the video tag. open browser to see the video.*
   </p>
 
 Figure 2 shows the complete spraying hardware system with the equipment used.

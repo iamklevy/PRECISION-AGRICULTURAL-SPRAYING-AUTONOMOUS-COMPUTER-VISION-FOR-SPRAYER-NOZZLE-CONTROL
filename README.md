@@ -6,8 +6,11 @@ Keywords— Precision Agriculture, Autonomous Systems, Computer Vision, Pesticid
 The autonomous nozzle control system aims to optimize pesticide application in crop fields. It consists of several interconnected components as shown in figure 1.
 ### Fig 1. Block Diagram of the Proposed Framework
 ![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/8d5f8350-cd52-4e9b-8855-9a695bf08d16)
-
-
-
+Figure 2 shows the complete spraying hardware system with the equipment used.
+### Figure 2. Complete Spraying Hardware 
 ![image2](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/17b053e1-b4ee-4a6d-9f46-888f14a4dc8e)
+![RC car - annotated diagram](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/b68b7b82-b2e9-459d-b456-6b194a241047)
+Blynk IoT platform is used for controlling the dc motors, MIT app inventor is used for controlling the pumps. The hardware is connected to the cloud via the Blynk app, designing the application to be controlled and monitored in real-time. 
+Figure 9 shows the remote-control application.
+### Figure 3. Control Application 
 ![image3](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/62ce86db-c3a3-4698-b4d5-9f0971abfa6a)

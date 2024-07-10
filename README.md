@@ -4,9 +4,9 @@ Abstract— In modern agriculture, the precise application of pesticides is crit
 Keywords— Precision Agriculture, Autonomous Systems, Computer Vision, Pesticide Spraying, Tractor-Mounted Sprayers, Crop Row Detection.
 
 The autonomous nozzle control system aims to optimize pesticide application in crop fields. It consists of several interconnected components as shown in figure 1.
-
-![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/8d5f8350-cd52-4e9b-8855-9a695bf08d16)
 ### Fig 1. Block Diagram of the Proposed Framework
+![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/8d5f8350-cd52-4e9b-8855-9a695bf08d16)
+
 
 
 ![image2](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/17b053e1-b4ee-4a6d-9f46-888f14a4dc8e)

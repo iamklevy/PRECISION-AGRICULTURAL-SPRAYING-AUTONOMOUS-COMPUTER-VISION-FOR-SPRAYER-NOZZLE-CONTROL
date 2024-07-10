@@ -10,10 +10,10 @@ The autonomous pesticide spraying tractor integrates both an Arduino Uno and an 
 
 1)	Arduino Uno Microcontroller:
  The Arduino microcontroller manages the activation of the sprayer nozzles. It receives processed signals resulting from the nozzle mapping algorithm. The Arduino Uno ensures that the nozzles spray pesticides precisely on the targeted crop sections, minimizing waste and enhancing efficiency. ESP32 Microcontroller. Two types of actuators are used; two DC motors which drive the tractor's wheels, and four sprayer nozzles are integrated to apply pesticides accurately based on processed data and control signals.
-2)	ESP32 microcontroller
-The nozzles, controlled by the Arduino, apply pesticides accurately based on the processed data and control signal
+2)	ESP32 microcontroller:
+ The nozzles, controlled by the Arduino, apply pesticides accurately based on the processed data and control signal
 3)	Extra equiements:
-Motor drivers (L298N), Li-ion batteries, Bluetooth module (HC-05) and ESP32.
+ Motor drivers (L298N), Li-ion batteries, Bluetooth module (HC-05) and ESP32.
 
 Figure 2 shows the complete spraying hardware system with the equipment used.
 ### Figure 2. Complete Spraying Hardware 

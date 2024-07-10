@@ -14,6 +14,7 @@ The autonomous pesticide spraying tractor integrates both an Arduino Uno and an 
 The nozzles, controlled by the Arduino, apply pesticides accurately based on the processed data and control signal
 3)	Extra equiements:
 Motor drivers (L298N), Li-ion batteries, Bluetooth module (HC-05) and ESP32.
+
 Figure 2 shows the complete spraying hardware system with the equipment used.
 ### Figure 2. Complete Spraying Hardware 
 ![image2](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/17b053e1-b4ee-4a6d-9f46-888f14a4dc8e)

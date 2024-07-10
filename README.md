@@ -6,6 +6,14 @@ Keywords— Precision Agriculture, Autonomous Systems, Computer Vision, Pesticid
 The autonomous nozzle control system aims to optimize pesticide application in crop fields. It consists of several interconnected components as shown in figure 1.
 ### Fig 1. Block Diagram of the Proposed Framework
 ![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/8d5f8350-cd52-4e9b-8855-9a695bf08d16)
+The autonomous pesticide spraying tractor integrates both an Arduino Uno and an ESP32 microcontrollers to manage its physical components effectively. The system is structured as follows:
+
+1)	Arduino Uno Microcontroller:
+ The Arduino microcontroller manages the activation of the sprayer nozzles. It receives processed signals resulting from the nozzle mapping algorithm. The Arduino Uno ensures that the nozzles spray pesticides precisely on the targeted crop sections, minimizing waste and enhancing efficiency. ESP32 Microcontroller. Two types of actuators are used; two DC motors which drive the tractor's wheels, and four sprayer nozzles are integrated to apply pesticides accurately based on processed data and control signals.
+2)	ESP32 microcontroller
+The nozzles, controlled by the Arduino, apply pesticides accurately based on the processed data and control signal
+3)	Extra equiements:
+Motor drivers (L298N), Li-ion batteries, Bluetooth module (HC-05) and ESP32.
 Figure 2 shows the complete spraying hardware system with the equipment used.
 ### Figure 2. Complete Spraying Hardware 
 ![image2](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/17b053e1-b4ee-4a6d-9f46-888f14a4dc8e)

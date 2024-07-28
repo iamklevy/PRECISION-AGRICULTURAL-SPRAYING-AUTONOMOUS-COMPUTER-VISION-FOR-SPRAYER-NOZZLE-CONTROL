@@ -18,8 +18,10 @@ The autonomous pesticide spraying tractor integrates both an Arduino Uno and an 
  Motor drivers (L298N), Li-ion batteries, Bluetooth module (HC-05) and ESP32.
 
 ### 3D Design Demo 
+https://github.com/iamklevy/PRECISION-AGRICULTURAL-SPRAYING-AUTONOMOUS-COMPUTER-VISION-FOR-SPRAYER-NOZZLE-CONTROL/assets/94145850/5ee1b6fb-c0d2-4f5b-9983-96f7ed603564
+
 <p>
-    <video src="https://github.com/iamklevy/PRECISION-AGRICULTURAL-SPRAYING-AUTONOMOUS-COMPUTER-VISION-FOR-SPRAYER-NOZZLE-CONTROL/assets/94145850/5ee1b6fb-c0d2-4f5b-9983-96f7ed603564" />
+    <video src="https://github.com/user-attachments/assets/282130e3-dc6c-42b9-a4db-16a461d7da02" />
       *Your display does not support the video tag. open browser to see the video.*
   </p>
 

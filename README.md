@@ -7,7 +7,7 @@ Abstract— In modern agriculture, the precise application of pesticides is crit
 The autonomous nozzle control system aims to optimize pesticide application in crop fields. It consists of several interconnected components as shown in figure 1.
 
 ### Figure 1. Block Diagram of the Proposed Framework
-![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/iamklevy/Precision-Agricultural-Spraying/assets/94145850/8d5f8350-cd52-4e9b-8855-9a695bf08d16)
+![System Architecture of Autonomous Nozzle Control for Precision Agricultural Spraying](https://github.com/user-attachments/assets/4467dea2-2c59-4cb1-bf22-d77434ae5461)
 
 The autonomous pesticide spraying tractor integrates both an Arduino Uno and an ESP32 microcontrollers to manage its physical components effectively. The system is structured as follows:
 1)	Arduino Uno Microcontroller:
